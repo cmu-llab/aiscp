@@ -3,6 +3,29 @@
 This is the code for the paper "Automating Sound Change Prediction for Phylogenetic Inference: A Tukanoan Case Study."
 
 
+# Running our code
+
+## Installation
+```pip install -r requirements.txt```
+```conda install pynini```
+
+You may need to revise the evaluation scripts to use the version of consense, penny, and quartet_dist for your platform (e.g ./consense-linux)
+You could also replace consense, penny, and quartet_dist with a freshly downloaded version specific to your platform. Here are the download instructions:
+
+* consense - used to get a consensus tree
+    Install PHYLIP from https://phylipweb.github.io/phylip/getme-new1.html (use wget if needed).
+    Follow instructions at https://phylipweb.github.io/phylip/install.html
+    Copy consense to evaluation/: ```cp PATH_TO_PHYLIP/phylip-3.695/exe/consense.app/Contents/MacOS/consense evaluation``` (OS X) or ```cp PATH_TO_PHYLIP/phylip-3.697/exe/consense evaluation/consense-linux``` (linux)
+
+* penny - used for phylogenetic inference
+    Assuming PHYLIP is downloaded, ```cp PATH_TO_PHYLIP/phylip-3.695/exe/consense.app/Contents/MacOS/penny evaluation``` (OS X) or ```cp PATH_TO_PHYLIP/phylip-3.697/exe/penny evaluation/penny-linux``` (linux)
+
+* quartet_dist - used to calculate GQD (generalized quartet distance)
+    On a Linux machine,
+    ```conda install -c bioconda tqdist```
+    or
+    Follow the instructions on https://www.birc.au.dk/~cstorm/software/tqdist/
+
 # Citing our paper
 
 Please cite our paper as follows:

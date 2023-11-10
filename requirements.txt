@@ -1,0 +1,9 @@
+pandas
+configargparse
+numpy
+panphon
+matplotlib
+networkx
+newick
+torch
+scipy
