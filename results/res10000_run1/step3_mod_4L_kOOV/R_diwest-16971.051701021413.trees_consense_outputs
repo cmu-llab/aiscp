@@ -1,0 +1,89 @@
+
+Consensus tree program, version 3.697
+
+Species in order: 
+
+  1. Bar
+  2. Des
+  3. Kue
+  4. Tuk
+  5. Wan
+  6. Tuy
+  7. Yup
+  8. Kor
+  9. Mai
+  10. Sek
+
+  11. Sir
+  12. Kub
+  13. Kar
+  14. Tan
+  15. Pir
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    3.00
+
+...****... .....             3.00
+.......... ..***             3.00
+.........* *....             3.00
+***....... .....             3.00
+.......*** **...             3.00
+.......... ..**.             3.00
+*******... .....             3.00
+........** *....             3.00
+...***.... .....             3.00
+.......*** *....             3.00
+...**..... .....             3.00
+**........ .....             3.00
+*******... ..***             1.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of    3.00
+
+.......*** *****             1.00
+********** **...             1.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers forks indicate the number
+of times the group consisting of the species
+which are to the right of that fork occurred
+among the trees, out of   3.00 trees
+
+                          +-----------------------Kor
+                  +--3.00-|
+                  |       |       +---------------Mai
+                  |       +--3.00-|
+  +----------3.00-|               |       +-------Sek
+  |               |               +--3.00-|
+  |               |                       +-------Sir
+  |               |
+  |               +-------------------------------Kub
+  |
+  |                       +-----------------------Yup
+  |                       |
+  |               +--3.00-|               +-------Wan
+  |               |       |       +--3.00-|
+  |               |       +--3.00-|       +-------Tuk
+  |               |               |
+  |       +--3.00-|               +---------------Tuy
+  |       |       |
+  |       |       |                       +-------Des
+  |       |       |               +--3.00-|
+  |       |       +----------3.00-|       +-------Bar
+  +--1.00-|                       |
+          |                       +---------------Kue
+          |
+          |                               +-------Kar
+          |                       +--3.00-|
+          +------------------3.00-|       +-------Tan
+                                  |
+                                  +---------------Pir
+
+

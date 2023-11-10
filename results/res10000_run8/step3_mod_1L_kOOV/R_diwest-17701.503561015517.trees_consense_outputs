@@ -1,0 +1,85 @@
+
+Consensus tree program, version 3.697
+
+Species in order: 
+
+  1. Bar
+  2. Des
+  3. Kub
+  4. Yup
+  5. Kor
+  6. Mai
+  7. Sek
+  8. Sir
+  9. Kue
+  10. Tan
+
+  11. Kar
+  12. Tuy
+  13. Tuk
+  14. Wan
+  15. Pir
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    1.00
+
+.......... ****.             1.00
+********** .....             1.00
+****...... .....             1.00
+***....... .....             1.00
+....****.. .....             1.00
+.......... ..**.             1.00
+.......... **...             1.00
+........** .....             1.00
+......**.. .....             1.00
+....**.... .....             1.00
+**........ .....             1.00
+.......... *****             1.00
+....****** .....             1.00
+
+
+Sets NOT included in consensus tree: NONE
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers forks indicate the number
+of times the group consisting of the species
+which are to the right of that fork occurred
+among the trees, out of   1.00 trees
+(trees had fractional weights)
+
+                                  +-------Tuk
+                          +--1.00-|
+                          |       +-------Wan
+                  +--1.00-|
+                  |       |       +-------Tuy
+  +----------1.00-|       +--1.00-|
+  |               |               +-------Kar
+  |               |
+  |               +-----------------------Pir
+  |
+  |                               +-------Sir
+  |                       +--1.00-|
+  |                       |       +-------Sek
+  |               +--1.00-|
+  |               |       |       +-------Mai
+  |               |       +--1.00-|
+  |       +--1.00-|               +-------Kor
+  |       |       |
+  |       |       |               +-------Kue
+  |       |       +----------1.00-|
+  |       |                       +-------Tan
+  +--1.00-|
+          |                       +-------Des
+          |               +--1.00-|
+          |       +--1.00-|       +-------Bar
+          |       |       |
+          +--1.00-|       +---------------Kub
+                  |
+                  +-----------------------Yup
+
+

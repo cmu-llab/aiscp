@@ -1,0 +1,91 @@
+
+Consensus tree program, version 3.697
+
+Species in order: 
+
+  1. Bar
+  2. Des
+  3. Tan
+  4. Kue
+  5. Kor
+  6. Mai
+  7. Sek
+  8. Sir
+  9. Tuk
+  10. Wan
+
+  11. Tuy
+  12. Yup
+  13. Kar
+  14. Kub
+  15. Pir
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    5.00
+
+........** **...             5.00
+****...... .....             5.00
+.......... ..***             5.00
+***....... .....             5.00
+....****.. .....             5.00
+.......... ..**.             5.00
+.....***.. .....             5.00
+........** *....             5.00
+......**.. .....             5.00
+**........ .....             5.00
+........** .....             5.00
+********** **...             3.00
+....****** **...             3.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of    5.00
+
+********.. .....             1.00
+....****** *****             1.00
+****....** **...             1.00
+****...... ..***             1.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers forks indicate the number
+of times the group consisting of the species
+which are to the right of that fork occurred
+among the trees, out of   5.00 trees
+
+                                          +-------Sir
+                                  +--5.00-|
+                          +--5.00-|       +-------Sek
+                          |       |
+                  +--5.00-|       +---------------Mai
+                  |       |
+                  |       +-----------------------Kor
+                  |
+          +--3.00-|                       +-------Tuk
+          |       |               +--5.00-|
+          |       |       +--5.00-|       +-------Wan
+          |       |       |       |
+          |       +--5.00-|       +---------------Tuy
+          |               |
+  +--3.00-|               +-----------------------Yup
+  |       |
+  |       |                               +-------Des
+  |       |                       +--5.00-|
+  |       |               +--5.00-|       +-------Bar
+  |       |               |       |
+  |       +----------5.00-|       +---------------Tan
+  |                       |
+  |                       +-----------------------Kue
+  |
+  |                                       +-------Kar
+  |                               +--5.00-|
+  +--------------------------5.00-|       +-------Kub
+                                  |
+                                  +---------------Pir
+
+

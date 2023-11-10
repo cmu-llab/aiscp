@@ -1,0 +1,89 @@
+
+Consensus tree program, version 3.697
+
+Species in order: 
+
+  1. Bar
+  2. Des
+  3. Tan
+  4. Kor
+  5. Yup
+  6. Mai
+  7. Sek
+  8. Sir
+  9. Kar
+  10. Tuk
+
+  11. Wan
+  12. Tuy
+  13. Kub
+  14. Kue
+  15. Pir
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    3.00
+
+.........* **...             3.00
+*****..... .....             3.00
+........** **...             3.00
+........** ***..             3.00
+****...... .....             3.00
+.........* *....             3.00
+***....... .....             3.00
+.....***.. .....             3.00
+********.. .....             3.00
+........** ****.             3.00
+......**.. .....             3.00
+**........ .....             3.00
+********** ****.             1.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of    3.00
+
+********.. ....*             1.00
+........** *****             1.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers forks indicate the number
+of times the group consisting of the species
+which are to the right of that fork occurred
+among the trees, out of   3.00 trees
+
+                                                  +-------Tuk
+                                          +--3.00-|
+                                  +--3.00-|       +-------Wan
+                                  |       |
+                          +--3.00-|       +---------------Tuy
+                          |       |
+                  +--3.00-|       +-----------------------Kar
+                  |       |
+          +--3.00-|       +-------------------------------Kub
+          |       |
+          |       +---------------------------------------Kue
+          |
+          |                                       +-------Sir
+  +--1.00-|                               +--3.00-|
+  |       |       +------------------3.00-|       +-------Sek
+  |       |       |                       |
+  |       |       |                       +---------------Mai
+  |       |       |
+  |       |       |                               +-------Des
+  |       +--3.00-|                       +--3.00-|
+  |               |               +--3.00-|       +-------Bar
+  |               |               |       |
+  |               |       +--3.00-|       +---------------Tan
+  |               |       |       |
+  |               +--3.00-|       +-----------------------Kor
+  |                       |
+  |                       +-------------------------------Yup
+  |
+  +-------------------------------------------------------Pir
+
+

@@ -1,0 +1,15 @@
+((((Bar,Tan),((Kor,Sek),(Mai,Sir))),(((Des,Kue),Yup),((Kar,((Tuk,Wan),Tuy)),Kub))),Pir);
+(((((Bar,Tan),((Kor,Sek),(Mai,Sir))),((Des,Kue),Yup)),((Kar,((Tuk,Wan),Tuy)),Kub)),Pir);
+(((Bar,Tan),((Kor,Sek),(Mai,Sir))),((((Des,Kue),Yup),((Kar,((Tuk,Wan),Tuy)),Kub)),Pir));
+(((((Bar,Tan),((Kor,Sek),(Mai,Sir))),Pir),((Kar,((Tuk,Wan),Tuy)),Kub)),((Des,Kue),Yup));
+(((((Bar,Tan),((Kor,Sek),(Mai,Sir))),((Des,Kue),Yup)),Pir),((Kar,((Tuk,Wan),Tuy)),Kub));
+(((Bar,Tan),((Kor,Sek),(Mai,Sir))),((((Des,Kue),Yup),Pir),((Kar,((Tuk,Wan),Tuy)),Kub)));
+((((Bar,Tan),((Kor,Sek),(Mai,Sir))),Pir),(((Des,Kue),Yup),((Kar,((Tuk,Wan),Tuy)),Kub)));
+(((((Bar,Tan),((Kor,Sek),(Mai,Sir))),Pir),((Des,Kue),Yup)),((Kar,((Tuk,Wan),Tuy)),Kub));
+((((Bar,Tan),((Kor,Sek),(Mai,Sir))),((Kar,((Tuk,Wan),Tuy)),Kub)),(((Des,Kue),Yup),Pir));
+(((((Bar,Tan),((Kor,Sek),(Mai,Sir))),((Kar,((Tuk,Wan),Tuy)),Kub)),((Des,Kue),Yup)),Pir);
+((((Bar,Tan),((Kor,Sek),(Mai,Sir))),((Des,Kue),Yup)),(((Kar,((Tuk,Wan),Tuy)),Kub),Pir));
+((((Bar,Tan),((Kor,Sek),(Mai,Sir))),(((Des,Kue),Yup),Pir)),((Kar,((Tuk,Wan),Tuy)),Kub));
+(((Bar,Tan),((Kor,Sek),(Mai,Sir))),(((Des,Kue),Yup),(((Kar,((Tuk,Wan),Tuy)),Kub),Pir)));
+((((Bar,Tan),((Kor,Sek),(Mai,Sir))),(((Kar,((Tuk,Wan),Tuy)),Kub),Pir)),((Des,Kue),Yup));
+(((((Bar,Tan),((Kor,Sek),(Mai,Sir))),((Kar,((Tuk,Wan),Tuy)),Kub)),Pir),((Des,Kue),Yup));

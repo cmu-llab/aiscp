@@ -1,0 +1,88 @@
+
+Consensus tree program, version 3.697
+
+Species in order: 
+
+  1. Bar
+  2. Kar
+  3. Des
+  4. Pir
+  5. Kor
+  6. Sek
+  7. Kub
+  8. Mai
+  9. Sir
+  10. Kue
+
+  11. Tan
+  12. Tuk
+  13. Wan
+  14. Tuy
+  15. Yup
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    2.00
+
+.......... .****             2.00
+.......... .***.             2.00
+.......... .**..             2.00
+****...... .....             2.00
+.........* *....             2.00
+.........* *****             2.00
+.......**. .....             2.00
+***....... .....             2.00
+....*****. .....             2.00
+....**.... .....             2.00
+**........ .....             2.00
+......***. .....             2.00
+*********. .....             1.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of    2.00
+
+....****** *****             1.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers forks indicate the number
+of times the group consisting of the species
+which are to the right of that fork occurred
+among the trees, out of   2.00 trees
+
+                                  +-------Wan
+                          +--2.00-|
+                  +--2.00-|       +-------Tuk
+                  |       |
+          +--2.00-|       +---------------Tuy
+          |       |
+  +--2.00-|       +-----------------------Yup
+  |       |
+  |       |                       +-------Kue
+  |       +------------------2.00-|
+  |                               +-------Tan
+  |
+  |                               +-------Mai
+  |                       +--2.00-|
+  |               +--2.00-|       +-------Sir
+  |               |       |
+  |       +--2.00-|       +---------------Kub
+  |       |       |
+  |       |       |               +-------Sek
+  |       |       +----------2.00-|
+  |       |                       +-------Kor
+  +--1.00-|
+          |                       +-------Kar
+          |               +--2.00-|
+          |       +--2.00-|       +-------Bar
+          |       |       |
+          +--2.00-|       +---------------Des
+                  |
+                  +-----------------------Pir
+
+
