@@ -26,6 +26,16 @@ You could also replace consense, penny, and quartet_dist with a freshly download
     or
     Follow the instructions on https://www.birc.au.dk/~cstorm/software/tqdist/
 
+
+## Evaluation
+To calculate GQD on the tree outputs from our 10 runs, run the following script:
+```
+./results/reproduce_eval.sh
+```
+The GQDs will be in results/reproduce.txt.
+You may need to revise ./results/reproduce_eval.sh, ./evaluation/evaluate.sh, and ./evaluation/evalstep3.sh to point to the path of consense, penny, and quartet_dist specific to your OS that you installed in the steps above.
+
+
 # Citing our paper
 
 Please cite our paper as follows:
