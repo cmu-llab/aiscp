@@ -36,6 +36,20 @@ The GQDs will be in results/reproduce.txt.
 You may need to revise ./results/reproduce_eval.sh, ./evaluation/evaluate.sh, and ./evaluation/evalstep3.sh to point to the path of consense, penny, and quartet_dist specific to your OS that you installed in the steps above.
 
 
+## Index Diachronica (training data for directional weighted feature edit distance)
+
+```
+cd index_diachronica
+wget https://chridd.nfshost.com/diachronica/index-diachronica.tex?as=text
+mv index-diachronica.tex?as=text data/index_diachronica.tex
+
+python extract.py
+python ipa_cleanup.py
+```
+
+The output will be in index_diachronica/output/index_diachronica_output.csv.
+
+
 # Citing our paper
 
 Please cite our paper as follows:
