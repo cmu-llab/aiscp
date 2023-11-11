@@ -50,6 +50,26 @@ python ipa_cleanup.py
 The output will be in index_diachronica/output/index_diachronica_output.csv.
 
 
+## Learning directional weighted feature edit distance
+
+```
+# Create NN traning data
+echo "Creating training data"
+python3 phone_graph/generate_training_data.py
+
+# Train NN models
+echo "=== Model Training ==="
+echo "Training 1-layer model"
+python3 phone_graph/train_nn.py --vec_bitext phone_graph/train_data.pkl --save_file phone_graph/mod_1L.pt --model_type 1L
+echo "Training 4-layer model"
+python3 phone_graph/train_nn.py --vec_bitext phone_graph/train_data.pkl --save_file phone_graph/mod_4L.pt --model_type 4L
+echo "Training 8-layer model"
+python3 phone_graph/train_nn.py --vec_bitext phone_graph/train_data.pkl --save_file phone_graph/mod_8res.pt --model_type 8res
+echo "Training 16-layer model"
+python3 phone_graph/train_nn.py --vec_bitext phone_graph/train_data.pkl --save_file phone_graph/mod_16res.pt --model_type 16res
+```
+
+
 # Citing our paper
 
 Please cite our paper as follows:
