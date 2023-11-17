@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 
 
-FILE = "../data/tukanoan_cognates_new.csv"
+FILE = "../data_15/tukanoan_cognates_new.csv"
 EMPTY_CELL = "?"
 
 

@@ -38,6 +38,17 @@ The GQDs will be in results/reproduce.txt.
 You may need to revise ./results/reproduce_eval.sh, ./evaluation/evaluate.sh, and ./evaluation/evalstep3.sh to point to the path of consense, penny, and quartet_dist specific to your OS that you installed in the steps above.
 
 
+## Data Preparation
+The 15-language dataset from https://github.com/lexibank/chacontukanoan is stored at data_15/input and contains:
+* phonetic transcriptions
+* cognacy annotations
+* Proto-Tukanoan reconstructions
+
+The 21-language dataset from https://github.com/lingpy/tukano-paper is used in Chacon and List 2016 for their phylogeny (which we treat as the gold tree) and contains:
+* expert-induced sound laws (tukano-paper/D_changes.tsv)
+* expert intermediate sound change predictions (tukano-paper/D_reflexes.tsv)
+
+
 ## Baseline models
 
 We have two baseline models: cognacy and shared innovations (see Section 4.3 in the paper).
