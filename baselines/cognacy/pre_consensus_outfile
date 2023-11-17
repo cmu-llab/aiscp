@@ -1,0 +1,121 @@
+
+Penny algorithm, version 3.695
+ branch-and-bound to find all most parsimonious trees
+
+Wagner parsimony method
+
+                                             
+
+Search broken off!  Not guaranteed to
+ have found the most parsimonious
+ trees, but here is what we found:
+
+requires a total of            348.000
+
+    3 trees in all found
+
+
+
+
+  +-----------------------------------------Piratapuyo
+  !  
+  !                                      +--Barasano  
+  !                                   +--2  
+  !                                +-14  +--Desano    
+  !                                !  !  
+  !                 +--------------8  +-----Tukano    
+  !                 !              !  
+  !                 !              +--------Wanano    
+  !              +--5  
+  !              !  !           +-----------Kubeo     
+  !              !  !           !  
+--1              !  +----------11        +--Siona     
+  !              !              !  +----13  
+  !           +-12              !  !     +--Maihiki   
+  !           !  !              +-10  
+  !           !  !                 !     +--Sekoya    
+  !           !  !                 +-----7  
+  !        +--4  !                       +--Koreguahe 
+  !        !  !  !  
+  !        !  !  +--------------------------Karapan   
+  !     +--9  !  
+  !     !  !  +-----------------------------Tuyuka    
+  !  +--6  !  
+  !  !  !  +--------------------------------Tanimuka  
+  +--3  !  
+     !  +-----------------------------------Kueretu   
+     !  
+     +--------------------------------------Yupua     
+
+  remember: this is an unrooted tree!
+
+
+
+
+  +-----------------------------------------Piratapuyo
+  !  
+  !                                   +-----Barasano  
+  !                                +--2  
+  !                                !  !  +--Tukano    
+  !                 +--------------8  +-14  
+  !                 !              !     +--Desano    
+  !                 !              !  
+  !                 !              +--------Wanano    
+  !              +--5  
+  !              !  !           +-----------Kubeo     
+  !              !  !           !  
+--1              !  !           !        +--Siona     
+  !              !  +----------11     +-13  
+  !           +-12              !  +-10  +--Maihiki   
+  !           !  !              !  !  !  
+  !           !  !              +--7  +-----Sekoya    
+  !           !  !                 !  
+  !        +--4  !                 +--------Koreguahe 
+  !        !  !  !  
+  !        !  !  +--------------------------Karapan   
+  !     +--9  !  
+  !     !  !  +-----------------------------Tuyuka    
+  !  +--6  !  
+  !  !  !  +--------------------------------Tanimuka  
+  +--3  !  
+     !  +-----------------------------------Kueretu   
+     !  
+     +--------------------------------------Yupua     
+
+  remember: this is an unrooted tree!
+
+
+
+
+  +-----------------------------------------Piratapuyo
+  !  
+  !                                      +--Barasano  
+  !                                   +--2  
+  !                                +-14  +--Desano    
+  !                                !  !  
+  !                 +--------------8  +-----Tukano    
+  !                 !              !  
+  !                 !              +--------Wanano    
+  !              +--5  
+  !              !  !           +-----------Kubeo     
+  !              !  !           !  
+--1              !  !           !        +--Siona     
+  !              !  +----------11     +-13  
+  !           +-12              !  +-10  +--Maihiki   
+  !           !  !              !  !  !  
+  !           !  !              +--7  +-----Sekoya    
+  !           !  !                 !  
+  !        +--4  !                 +--------Koreguahe 
+  !        !  !  !  
+  !        !  !  +--------------------------Karapan   
+  !     +--9  !  
+  !     !  !  +-----------------------------Tuyuka    
+  !  +--6  !  
+  !  !  !  +--------------------------------Tanimuka  
+  +--3  !  
+     !  +-----------------------------------Kueretu   
+     !  
+     +--------------------------------------Yupua     
+
+  remember: this is an unrooted tree!
+

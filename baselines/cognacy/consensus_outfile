@@ -1,0 +1,91 @@
+
+Consensus tree program, version 3.697
+
+Species in order: 
+
+  1. Piratapuyo
+  2. Barasano
+  3. Desano
+  4. Tukano
+  5. Wanano
+  6. Kubeo
+  7. Siona
+  8. Maihiki
+  9. Sekoya
+  10. Koreguahe
+
+  11. Karapan
+  12. Tuyuka
+  13. Tanimuka
+  14. Kueretu
+  15. Yupua
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    1.00
+
+.....***** .....             1.00
+.********* **...             1.00
+......**** .....             1.00
+.********* *....             1.00
+.****..... .....             1.00
+.********* ***..             1.00
+.********* .....             1.00
+.********* ****.             1.00
+.***...... .....             1.00
+......**.. .....             1.00
+.**....... .....             0.67
+......***. .....             0.67
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of    1.00
+
+........** .....             0.33
+..**...... .....             0.33
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of   1.00 trees
+(trees had fractional weights)
+
+                                                                                  +-------Maihiki
+                                                                          +--1.00-|
+                                                                  +--0.67-|       +-------Siona
+                                                                  |       |
+                                                          +--1.00-|       +---------------Sekoya
+                                                          |       |
+                                                  +--1.00-|       +-----------------------Koreguahe
+                                                  |       |
+                                                  |       +-------------------------------Kubeo
+                                                  |
+                                          +--1.00-|                               +-------Barasano
+                                          |       |                       +--0.67-|
+                                          |       |               +--1.00-|       +-------Desano
+                                          |       |               |       |
+                                  +--1.00-|       +----------1.00-|       +---------------Tukano
+                                  |       |                       |
+                                  |       |                       +-----------------------Wanano
+                          +--1.00-|       |
+                          |       |       +-----------------------------------------------Karapan
+                  +--1.00-|       |
+                  |       |       +-------------------------------------------------------Tuyuka
+          +--1.00-|       |
+          |       |       +---------------------------------------------------------------Tanimuka
+  +-------|       |
+  |       |       +-----------------------------------------------------------------------Kueretu
+  |       |
+  |       +-------------------------------------------------------------------------------Yupua
+  |
+  +---------------------------------------------------------------------------------------Piratapuyo
+
+
+  remember: this is an unrooted tree!
+

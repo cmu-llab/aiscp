@@ -16,9 +16,11 @@ You could also replace consense, penny, and quartet_dist with a freshly download
     Install PHYLIP from https://phylipweb.github.io/phylip/getme-new1.html (use wget if needed).
     Follow instructions at https://phylipweb.github.io/phylip/install.html
     Copy consense to evaluation/: ```cp PATH_TO_PHYLIP/phylip-3.695/exe/consense.app/Contents/MacOS/consense evaluation``` (OS X) or ```cp PATH_TO_PHYLIP/phylip-3.697/exe/consense evaluation/consense-linux``` (linux)
+    (Do the same for baselines/consense)
 
 * penny - used for phylogenetic inference
     Assuming PHYLIP is downloaded, ```cp PATH_TO_PHYLIP/phylip-3.695/exe/consense.app/Contents/MacOS/penny evaluation``` (OS X) or ```cp PATH_TO_PHYLIP/phylip-3.697/exe/penny evaluation/penny-linux``` (linux)
+    (Do the same for baselines/penny)
 
 * quartet_dist - used to calculate GQD (generalized quartet distance)
     On a Linux machine,
@@ -34,6 +36,23 @@ To calculate GQD on the tree outputs from our 10 runs, run the following script:
 ```
 The GQDs will be in results/reproduce.txt.
 You may need to revise ./results/reproduce_eval.sh, ./evaluation/evaluate.sh, and ./evaluation/evalstep3.sh to point to the path of consense, penny, and quartet_dist specific to your OS that you installed in the steps above.
+
+
+## Baseline models
+
+We have two baseline models: cognacy and shared innovations (see Section 4.3 in the paper).
+
+```
+cd baselines
+./baseline.sh cognacy
+./baseline.sh shared_innovations
+cd ..
+./evaluation/evaluate_baseline.sh
+```
+
+Note that the cognacy baseline uses the 15 language subset from https://github.com/lexibank/chacontukanoan because the original transcriptions and cognacy annotations from the 21-language dataset in https://github.com/lingpy/tukano-paper (used to induce sound laws and intermediate sound changes) are not available. 
+
+For the shared innovations baseline, we only need the gold sound laws, so we can use the 21-language dataset.
 
 
 ## Index Diachronica (training data for directional weighted feature edit distance)
