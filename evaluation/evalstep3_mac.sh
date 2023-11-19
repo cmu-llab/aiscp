@@ -10,7 +10,12 @@ consense_tree=$1\_consense_tree
 mv outtree $consense_tree
 python3 evaluation/fix_tree.py -t $consense_tree
 
-GOLD_TREE=evaluation/tukano_chaconlist15.newick
+# see "Correction" in the README.md
+sed -e 's/Sir/Sio/g' $consense_tree.newick > tmp
+sed -e 's/Bar/Bas/g' tmp > $consense_tree.newick
+rm tmp
+
+GOLD_TREE=evaluation/tukano_chaconlist15_new.newick
 hyp_tree=$consense_tree.newick
 
 # butterflies_hyp=$(./evaluation/quartet_dist -v $hyp_tree $hyp_tree | awk -F '\t' '{print $5}')

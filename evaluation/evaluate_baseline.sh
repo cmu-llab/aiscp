@@ -5,7 +5,7 @@ echo "Calculating GQD for baselines"
 
 # cognacy - 16 varieties
 # shared innovations - 21 varieties
-GOLD_COGNACY_TREE=evaluation/tukano_chaconlist15_full.newick   # our tree not encoded, gold not encoded
+GOLD_COGNACY_TREE=evaluation/tukano_chaconlist15_new_full.newick   # our tree not encoded, gold not encoded
 GOLD_SHAREDINNO_TREE=evaluation/tukano_chaconlist.newick  # both our tree and the gold are encoded
 
 for baseline in cognacy shared_innovations

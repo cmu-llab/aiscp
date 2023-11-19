@@ -37,6 +37,14 @@ To calculate GQD on the tree outputs from our 10 runs, run the following script:
 The GQDs will be in results/reproduce.txt.
 You may need to revise ./results/reproduce_eval.sh, ./evaluation/evaluate.sh, and ./evaluation/evalstep3.sh to point to the path of consense, penny, and quartet_dist specific to your OS that you installed in the steps above.
 
+#### Correction
+* An earlier version of the 15-language tree (evaluation/tukano_chaconlist15.newick) used "Bar" for Barasano and "Sir" for Siona.
+    * The "AISCP + ASLI" (Sec 3.3) and cognacy baseline results in the LChange paper can be reproduced with the earlier, incorrect tree.
+    * The trees we generated from our 10 runs in results/ use the incorrect abbreviations, so we postcorrect the abbreviations in evaluation/evalstep3.sh
+* The correct tree (evaluation/tukano_chaconlist15_new.newick, evaluation/tukano_chaconlist15_new_full.newick) uses "Bas" for Barasano and "Sio" for Siona.
+* Our evaluation scripts and results in this repo use the correct tree.
+    * The arXiv version reflects these updated results.
+
 
 ## Data Preparation
 The 15-language dataset from https://github.com/lexibank/chacontukanoan is stored at data_15/input and contains:
