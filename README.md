@@ -2,6 +2,7 @@
 
 This is the code for the paper "Automating Sound Change Prediction for Phylogenetic Inference: A Tukanoan Case Study."
 
+🚧 The full code (the end to end phylogenetic inference pipeline) is still being uploaded. However, the evaluation code with the trees from our 10 runs is up. 🚧
 
 # Running our code
 
