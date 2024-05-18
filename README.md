@@ -4,6 +4,8 @@ This is the code for the paper "Automating Sound Change Prediction for Phylogene
 
 🚧 The full code (the end to end phylogenetic inference pipeline) is still being uploaded. However, the evaluation code with the trees from our 10 runs is up. 🚧
 
+[Feel free to take a look at our slides from LChange 2023.](lchange-slides.pdf)
+
 # Running our code
 
 ## Installation
