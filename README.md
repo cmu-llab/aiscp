@@ -113,6 +113,13 @@ python3 phone_graph/generate_training_data.py
 
 ## ASLI (automatic sound law induction) - Sec 3.3
 
+To automatically induce sound laws from protoform-reflex pairs (in data_15/), we use Wilson and Li (2021)'s implementation of Albright and Hayes (2002, 2003)'s
+minimal generalization algorithm, originally designed to induce synchronic morphological rules (https://github.com/colincwilson/mingen).
+It also uses a simple package for working with phonological features and BOS/EOS markers (https://github.com/colincwilson/phtrs).
+
+* Please install pynini (conda recommended)
+* Colin Wilson also shared his original (Java) implementation of mingen, usable from the commandline: https://github.com/colincwilson/MinimalGeneralizationLearner
+
 
 ### Alignment
 Before we run ASLI on protoform-reflex pairs, we must align the protoforms and reflexes.
@@ -125,6 +132,17 @@ We use a modified version of Needleman-Wunsch alignment so that the substitution
 
 ```
 python3 alignment/shared_innovation.py
+```
+
+### ASLI
+
+The output is in mingen/output/tukanoan
+
+```
+cd mingen
+python3 01_prepare_data.py --language_family tukanoan --alignment-file alignment/output/alignment_Prototucanoan
+python3 02_run_model.py
+python3 filter_rules.py
 ```
 
 
