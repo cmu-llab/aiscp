@@ -1,0 +1,214 @@
+Number	Proto	Context	Reflexes	Source	Target
+1	h		h,∅	h	∅
+3	j	V_V	s,j/tʃ,j,h,tʃ	j	ʒ
+3	j	V_V	s,j/tʃ,j,h,tʃ	ʒ	ʃ
+3	j	V_V	s,j/tʃ,j,h,tʃ	ʃ	s
+3	j	V_V	s,j/tʃ,j,h,tʃ	j	d͡ʒ
+3	j	V_V	s,j/tʃ,j,h,tʃ	d͡ʒ	t͡ʃ
+3	j	V_V	s,j/tʃ,j,h,tʃ	j	h
+3	j	V_V	s,j/tʃ,j,h,tʃ	j	d͡ʒ
+3	j	V_V	s,j/tʃ,j,h,tʃ	d͡ʒ	t͡ʃ
+4	k	#_	kʰ,k	k	kʰ
+5	k	V_V	ɡ,kʰ,k	k	ɡ
+5	k	V_V	ɡ,kʰ,k	k	kʰ
+6	k	i,e_	kʰ,k,tʃ	k	kʰ
+6	k	i,e_	kʰ,k,tʃ	k	c
+6	k	i,e_	kʰ,k,tʃ	c	t͡ʃ
+7	k	~V_V	∅,kʰ,k,ɡ	k	∅
+7	k	~V_V	∅,kʰ,k,ɡ	k	kʰ
+7	k	~V_V	∅,kʰ,k,ɡ	k	ɡ
+8	kː		kʰ,k	kː	kʰː
+8	kː		kʰ,k	kʰː	kʰ
+8	kː		kʰ,k	kː	k
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	kˀ	ˀk
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	ˀk	k
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	k	kʰ
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	kˀ	ˀk
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	ˀk	ɡ
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	kˀ	ˀk
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	ˀk	ɡ
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	kˀ	ˀk
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	ˀk	∅
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	kˀ	ˀk
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	ˀk	k
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	kˀ	ˀk
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	ˀk	ɡ
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	kˀ	ˀk
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	ˀk	∅
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	kˀ	ˀk
+9	kˀ	#_	kʰ,ɡ,ɡ/∅,kˀ ,k/ɡ,∅,k,kˀ	ˀk	k
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	kˀ	ˀk
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	ˀk	k
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	k	kʰ
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	kˀ	ˀk
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	ˀk	ɡ
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	kˀ	ˀk
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	ˀk	k
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	kˀ	ˀk
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	ˀk	ɡ
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	kˀ	ˀk
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	ˀk	∅
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	kˀ	ˀk
+10	kˀ	V_V	kʰ,ɡ,k/ɡ,∅,k	ˀk	k
+11	m		b,m	m	b
+12	n		n,d	n	d
+13	p	#_	h,p,p/ɸ,pʰ	p	h
+13	p	#_	h,p,p/ɸ,pʰ	p	ɸ
+13	p	#_	h,p,p/ɸ,pʰ	p	pʰ
+14	p	V_V	h,p,p/ɸ	p	h
+14	p	V_V	h,p,p/ɸ	p	ɸ
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	pˀ	ˀp
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	ˀp	b
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	pˀ	ˀp
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	ˀp	p
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	pˀ	ˀp
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	ˀp	b
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	pˀ	ˀp
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	ˀp	p
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	pˀ	ˀp
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	ˀp	ɓ
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	ɓ	bˀ
+15	pˀ	#_	b,pˀ,p/b,p,ˀb,pˀ 	bˀ	ˀb
+16	pˀ	#_V*p	h,p,b	pˀ	ˀp
+16	pˀ	#_V*p	h,p,b	ˀp	hˀ
+16	pˀ	#_V*p	h,p,b	hˀ	h
+16	pˀ	#_V*p	h,p,b	pˀ	ˀp
+16	pˀ	#_V*p	h,p,b	ˀp	p
+16	pˀ	#_V*p	h,p,b	pˀ	ˀp
+16	pˀ	#_V*p	h,p,b	ˀp	b
+17	pˀ	V_V	h,p,b	pˀ	ˀp
+17	pˀ	V_V	h,p,b	ˀp	hˀ
+17	pˀ	V_V	h,p,b	hˀ	h
+17	pˀ	V_V	h,p,b	pˀ	ˀp
+17	pˀ	V_V	h,p,b	ˀp	p
+17	pˀ	V_V	h,p,b	pˀ	ˀp
+17	pˀ	V_V	h,p,b	ˀp	b
+18	pˀ	~V_V	h,b	pˀ	ˀp
+18	pˀ	~V_V	h,b	ˀp	hˀ
+18	pˀ	~V_V	h,b	hˀ	h
+18	pˀ	~V_V	h,b	pˀ	ˀp
+18	pˀ	~V_V	h,b	ˀp	b
+19	s	#_	h,tʃ,s	s	h
+19	s	#_	h,tʃ,s	s	t͡ʃ
+20	s	V_V	h,s/tʃ,tʃ,s	s	h
+20	s	V_V	h,s/tʃ,tʃ,s	s	t͡ʃ
+20	s	V_V	h,s/tʃ,tʃ,s	s	t͡ʃ
+21	t	#_	tʰ,t	t	tʰ
+22	t	V_V	tʰ,t,d	t	tʰ
+22	t	V_V	tʰ,t,d	t	d
+23	t	~V_V	tʰ,t,n,d	t	tʰ
+23	t	~V_V	tʰ,t,n,d	t	d
+23	t	~V_V	tʰ,t,n,d	d	n
+23	t	~V_V	tʰ,t,n,d	t	d
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	t͡s	s
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	t͡s	s
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	t͡s	s
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	s	h
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	h	ɦ
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	ɦ	j
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	t͡s	s
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	t͡s	t͡ʃ
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	t͡s	s
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	s	h
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	t͡s	t
+24	ts 	#_	s,ts/s,j,s/tʃ,h,t/s	t͡s	s
+25	ts 	V_V	t,s,h,ts,tʃ	t͡s	t
+25	ts 	V_V	t,s,h,ts,tʃ	t͡s	s
+25	ts 	V_V	t,s,h,ts,tʃ	t͡s	s
+25	ts 	V_V	t,s,h,ts,tʃ	s	h
+25	ts 	V_V	t,s,h,ts,tʃ	t͡s	t͡ʃ
+26	tsˀ	#_	h,d,sˀ,j	t͡s	s
+26	tsˀ	#_	h,d,sˀ,j	s	h
+26	tsˀ	#_	h,d,sˀ,j	t͡s	t
+26	tsˀ	#_	h,d,sˀ,j	t	d
+26	tsˀ	#_	h,d,sˀ,j	t͡s	t
+26	tsˀ	#_	h,d,sˀ,j	t	ˀt
+26	tsˀ	#_	h,d,sˀ,j	ˀt	tˀ
+26	tsˀ	#_	h,d,sˀ,j	tˀ	ˀs
+26	tsˀ	#_	h,d,sˀ,j	ˀs	sˀ
+26	tsˀ	#_	h,d,sˀ,j	t͡s	s
+26	tsˀ	#_	h,d,sˀ,j	s	h
+26	tsˀ	#_	h,d,sˀ,j	h	ɦ
+26	tsˀ	#_	h,d,sˀ,j	ɦ	j
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t͡s	t
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t	d
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	d	ɾ
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	ɾ	r
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t͡s	t
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t	d
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	d	l
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t͡s	t
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t	d
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t͡s	t
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t	d
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	d	ɾ
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	ɾ	r
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t͡s	s
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	s	h
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	h	ɦ
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	ɦ	j
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t͡s	s
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	s	h
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t͡s	t
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	t	ˀt
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	ˀt	tˀ
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	tˀ	ˀs
+27	tsˀ	#_i	r/l,d,r,j,h,sˀ	ˀs	sˀ
+28	tː	V_V	tʰ,t,t/tʃ	tː	tʰː
+28	tː	V_V	tʰ,t,t/tʃ	tʰː	tʰ
+28	tː	V_V	tʰ,t,t/tʃ	tː	t
+28	tː	V_V	tʰ,t,t/tʃ	tː	t
+28	tː	V_V	tʰ,t,t/tʃ	tː	t
+28	tː	V_V	tʰ,t,t/tʃ	t	t͡ʃ
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	tˀ	ˀt
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	ˀt	z
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	z	ɾ
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	ɾ	r
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	tˀ	ˀt
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	ˀt	z
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	z	l
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	tˀ	ˀt
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	ˀt	d
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	tˀ	ˀt
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	ˀt	ɗ
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	ɗ	dˀ
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	dˀ	ˀd
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	tˀ	ˀt
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	ˀt	z
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	z	ɾ
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	ɾ	r
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	tˀ	ˀt
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	ˀt	d
+29	tˀ	#_	r/l,d,ˀd,r,ɖ	d	ɖ
+30	tˀ	V_V	tʰ,t,d,t/l	tˀ	ˀt
+30	tˀ	V_V	tʰ,t,d,t/l	ˀt	tʰ
+30	tˀ	V_V	tʰ,t,d,t/l	tˀ	ˀt
+30	tˀ	V_V	tʰ,t,d,t/l	ˀt	t
+30	tˀ	V_V	tʰ,t,d,t/l	tˀ	ˀt
+30	tˀ	V_V	tʰ,t,d,t/l	ˀt	d
+30	tˀ	V_V	tʰ,t,d,t/l	tˀ	ˀt
+30	tˀ	V_V	tʰ,t,d,t/l	ˀt	t
+30	tˀ	V_V	tʰ,t,d,t/l	tˀ	ˀt
+30	tˀ	V_V	tʰ,t,d,t/l	ˀt	z
+30	tˀ	V_V	tʰ,t,d,t/l	z	l
+31	tˀ	~V_V	n,t,d,r	tˀ	ˀt
+31	tˀ	~V_V	n,t,d,r	ˀt	d
+31	tˀ	~V_V	n,t,d,r	d	n
+31	tˀ	~V_V	n,t,d,r	tˀ	ˀt
+31	tˀ	~V_V	n,t,d,r	ˀt	t
+31	tˀ	~V_V	n,t,d,r	tˀ	ˀt
+31	tˀ	~V_V	n,t,d,r	ˀt	d
+31	tˀ	~V_V	n,t,d,r	tˀ	ˀt
+31	tˀ	~V_V	n,t,d,r	ˀt	z
+31	tˀ	~V_V	n,t,d,r	z	ɾ
+31	tˀ	~V_V	n,t,d,r	ɾ	r
+32	tʃ	#_	h,t,tʃ,s	t͡ʃ	ʃ
+32	tʃ	#_	h,t,tʃ,s	ʃ	h
+32	tʃ	#_	h,t,tʃ,s	t͡ʃ	t
+32	tʃ	#_	h,t,tʃ,s	t͡ʃ	ʃ
+32	tʃ	#_	h,t,tʃ,s	ʃ	s
+33	w		w,b	w	b
+34	ʔ		∅/h,∅/ʔ,∅,ʔ	ʔ	∅
+34	ʔ		∅/h,∅/ʔ,∅,ʔ	ʔ	h
+34	ʔ		∅/h,∅/ʔ,∅,ʔ	ʔ	∅
+34	ʔ		∅/h,∅/ʔ,∅,ʔ	ʔ	∅

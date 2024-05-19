@@ -146,6 +146,28 @@ python3 filter_rules.py
 ```
 
 
+## Phylogenetic inference
+We use Chacon and List (2016)'s parsimony-based phylogenetic inference method (https://github.com/lingpy/tukano-paper).
+
+- `formatting`: creating the sound change transition matrix (recording the cost of sound changes) from the phone graph
+    - The scripts do not follow the following order. The actual order depends which experiment we are running. See step{1,2,3}.sh for the actual order.
+    - `s2_wlout2clreflex.py`: convert mingen rules to reflexes.tsv
+    - `s3_clreflex2change.py`: given sound correspondences, predict intermediate sound changes with the phone graph (AISCP)
+    - `s5_shortestpaths.py`: use networkx to get the shortest paths from source to target phone in the phone graph (uses the most recently generated one, phone_graph.pkl)
+    - `s4_adjust_weights.py`: naively downweight the weight of a sound change / phone transition based on Index Diachronica (freeway / naive FED downweighting experiment)
+    - `include_phones.txt`: the phones we include in our phone graph (we started with panphon’s set and restrict the phone set to only include those with a certain number of diacritics)
+    - `diachronic_panphon`: we modified the weights of each feature to reflect diachronic phonology
+- `tukano-paper`: their phylogenetic inference pipeline
+    - `D_reflexes.tsv`: expert sound correspondences including proto-phoneme and context
+        - AISCP: use the expert sound correspondences
+        - AISCP + ASLI: the sound correspondences from automatic sound law induction (`S_reflexes.tsv`)
+    - `S_changes.tsv`: our predicted intermediate sound changes from AISCP
+        - `D_changes.tsv`: expert intermediate sound changes
+    - `S_compile_data.py`: reads in intermediate sound changes, reflexes, creates directed graph, encodes the matrix
+    - `L_parsimony.py`: parsimony-based phylogenetic inference using the sound change transition matrix (we optimized the code with sets and priority queues)
+    - `C_analyze.py`: phylogenetic inference manager
+
+
 ## End-to-end pipeline
 
 The designated script to run our experiments for our paper is `exps.sh`. Its usage is as follows:

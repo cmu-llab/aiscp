@@ -1,0 +1,201 @@
+Number	Proto-sound	Context	Kar	Tuy	Wan	Tuk	Des	Kue	Mai	Tan	Kor	Kub	Bar	Yup	Sir	Pir	Sek
+1.0	*t͡s	(⋊) __ (a|e|ɨ|i)	t͡s	t͡s	d	t͡s	t͡s	ɾ	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s
+2.0	*ɨ	(m) __	ɨ	ɨ̃	ɨ̃	ɨ	ɨ̃	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ
+3.0	*kˀ	(⋊) __ (a|o|ã|õ)	∅	kˀ	k	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ
+4.0	*tː	(a|o|e|u|ɨ|i|ã|õ|ĩ|ũ|ɨ̃|ẽ) __ (e|i)	t	tː	t	tː	tː	tː	tː	t	tː	tː	t	tː	tː	tː	tː
+5.0	*tˀ	(⋊) __ (o|u|ɨ|õ|ũ|ɨ̃)	tˀ	tˀ	n	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	n	tˀ	tˀ	tˀ	tˀ	d
+6.0	*ɨ	(n|m|ʔ|t|p|d|b|t͡ʃ|t͡s|pˀ|tʲ|tˀ|ˀb|ˀd|ˀm|ˀn|ˀp|ˀt) __ (ʔ|k|t|t͡ʃ|t͡s|kː|tː|kʲ|kˀ|tʲ|tˀ|ˀk|ˀt)	ɨ̃	ɨ	ɨ̃	ɨ̃	ɨ	ɨ	ɨ	ĩ	ɨ	ɨ	ɨ̃	ɨ	ɨ	ɨ	ɨ
+7.0	*t͡s	(⋊) __ (ã|õ|ĩ|ũ|ɨ̃|ẽ)	t͡s	j	j	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s
+8.0	*t͡ʃ	(⋊) __ (o|u|ɨ|õ|ũ|ɨ̃)	h	t͡ʃ	s	s	t͡ʃ	t͡ʃ	t͡ʃ	t͡ʃ	s	h	t͡ʃ	t͡ʃ	t͡ʃ	t͡ʃ	s
+9.0	*j	(⋊) (w) (a) __ (a|o)	j	j	ˀs	ˀs	j	j	j	j	j	j	j	j	j	j	j
+10.0	*ˀj	(ɨ) __ (o|e)	ˀj	ˀj	s	ˀj	ˀj	ˀj	ˀj	ˀj	j	j	ˀj	ˀj	j	ˀj	ˀj
+11.0	*pˀ	(e|ɨ|i) __ (a|o)	p	pˀ	ˀp	ˀp	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ
+12.0	*tˀ	(⋊) __ (o|u|ɨ)	tˀ	tˀ	d	d	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ
+13.0	*∅	(⋊) (t͡s) (ĩ) __ (⋉)	ĩ	ĩ	ĩ	ĩ	ĩ	∅	a	∅	∅	∅	ĩ	∅	∅	∅	∅
+14.0	*ẽ	(⋊) (j) __ (kː) (u) (⋉)	ĩ	ẽ	ɨ̃	ẽ	ẽ	ẽ	ẽ	ẽ	ẽ	ẽ	ĩ	ẽ	ẽ	ẽ	ẽ
+15.0	*ɨ	(⋊) (a) (t͡s) __ (⋉)	ɨ	ɨ	i	ɨ	ɨ	ɨ	u	ɨ	ɨ	ɨ	ɨ	ɨ	u	ɨ	ɨ
+16.0	*ɨ̃	(⋊) __ (kʷˀ) (e) (⋉)	ɨ̃	ẽ	∅	ɨ̃	ɨ̃	o	ũ	õ	ɨ̃	ũ	ɨ̃	ɨ̃	ũ	ɨ̃	õ
+17.0	*kʷˀ	(⋊) (ɨ̃) __ (e) (⋉)	k	k	k	ˀk	ˀŋ	m	kʷ	m	kʰ	∅	ŋ	ɡ	kʷ	kʷˀ	kʷ
+18.0	*tˀ	(⋊) __ (e) (⋉)	tˀ	tˀ	ɾ	ɾ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	ɾ	tˀ
+19.0	*o	(⋊) (ɲ) (ã) (pˀ|ˀp) __ (⋉)	o	ũ	ũ	ũ	o	o	o	o	o	o	o	o	o	o	o
+20.0	*o	(⋊) (pˀ|ˀp) (i) (p) __ (⋉)	o	o	e	e	i	o	o	o	o	o	e	o	o	o	o
+21.0	*u	(⋊) (j) (ẽ) (kː) __ (⋉)	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	u	ɨ	u	u	u	ɨ̃	u	u	u	u
+22.0	*∅	(⋊) __ (t|tʲ) (u) (⋉)	t	∅	tʰ	t	∅	∅	∅	∅	∅	t	t	∅	∅	∅	∅
+23.0	*ĩ	(⋊) (s) __ (kˀ|ˀk) (e) (⋉)	ĩ	ã	a	ã	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ
+24.0	*∅	(⋊) (pˀ|ˀp) (o) __ (⋉)	t	t	ˀt	t	d	∅	∅	i	∅	∅	t	∅	∅	∅	∅
+25.0	*∅	(⋊) (tˀ|ˀt) (õ) (m) (i) __ (⋉)	õ	õ	n	õ	õ	∅	o	∅	o	∅	õ	∅	∅	∅	o
+26.0	*∅	(⋊) (p) (u) __ (⋉)	t	∅	t	t	d	∅	∅	∅	i	∅	t	∅	i	∅	∅
+27.0	*∅	(⋊) (j) (ɨ) __ (i) (⋉)	∅	∅	t	t	d	∅	∅	ˀt	∅	∅	t	∅	∅	∅	∅
+28.0	*kˀ	(⋊) __ (ɨ) (pˀ|ˀp) (o) (⋉)	ɾ	d	d	d	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ
+29.0	*w	(⋊) __ (u) (ɨ) (⋉)	b	w	b	w	w	w	w	b	w	b	w	w	w	w	w
+30.0	*ɨ	(⋊) (kʷ) __ (tˀ|ˀt) (e) (⋉)	ɨ	ɨ	o	o	o	ɨ	ɨ	ɨ	ɨ	o	o	o	ɨ	ɨ	ɨ
+31.0	*kʷ	(⋊) __ (ɨ) (tˀ|ˀt) (e) (⋉)	kʷ	kʷ	k	k	k	h	∅	kʷ	kʷ	k	k	k	kʷ	kʷ	∅
+32.0	*õ	(⋊) (kˀ|ˀk) __ (p) (i) (⋉)	o	õ	∅	u	õ	õ	ũ	o	õ	õ	u	õ	ũ	õ	õ
+33.0	*∅	(⋊) (t͡ʃ) (õ) (pˀ|ˀp) (ɨ) __ (⋉)	∅	ã	k	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅
+34.0	*∅	(⋊) (k|kʲ) (ã) __ (⋉)	n	n	n	n	∅	∅	∅	ɾ	∅	∅	∅	∅	∅	∅	∅
+35.0	*∅	(⋊) __ (n) (o) (⋉)	∅	∅	n	∅	∅	∅	∅	ɾ	∅	∅	∅	∅	∅	∅	∅
+36.0	*p	(⋊) (pˀ|ˀp) (o) __ (a) (⋉)	p	p	∅	ˀm	m	p	p	p	p	p	m	p	p	p	p
+37.0	*ã	(⋊) (t͡s) __ (kˀ|ˀk) (ɨ) (⋉)	ã	ã	a	a	ã	ã	ã	ã	ã	ã	ã	ã	ã	ã	ã
+38.0	*j	(⋊) (t|tʲ) (a) __ (a) (⋉)	∅	∅	∅	j	j	j	j	j	j	∅	j	j	j	j	j
+39.0	*o	(⋊) (n) __ (⋉)	ũ	o	ɨ̃	ũ	o	o	o	i	o	o	o	o	o	o	o
+40.0	*p	(⋊) (tˀ|ˀt) (ɨ̃) __ (o) (⋉)	m	m	m	m	p	p	p	m	p	p	p	p	p	p	p
+41.0	*õ	(⋊) (t͡ʃ) __ (pˀ|ˀp) (ɨ) (⋉)	õ	õ	ɨ̃	õ	õ	õ	õ	õ	õ	õ	õ	ũ	õ	õ	õ
+42.0	*i	(⋊) (w) (ã) (m) __ (⋉)	ẽ	ẽ	ã	ẽ	i	i	i	ẽ	i	i	ẽ	i	i	i	i
+43.0	*e	(⋊) (w) (ɨ) (ʔ) __ (⋉)	e	e	ɨ	e	e	i	e	i	e	e	e	e	e	e	e
+44.0	*ɨ̃	(⋊) (w) __ (p) (o) (⋉)	ɨ̃	ɨ	ɨ	ɨ̃	u	ɨ̃	ɨ̃	ɨ̃	ɨ̃	õ	ɨ	ɨ̃	ɨ̃	ɨ̃	o
+45.0	*ɨ̃	(⋊) (tˀ|ˀt) __ (p) (o) (⋉)	ɨ̃	ɨ̃	ã	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ũ	ɨ	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃
+46.0	*ẽ	(⋊) (t͡s) __ (s) (e) (⋉)	ẽ	e	e	e	e	e	ẽ	ẽ	ẽ	ẽ	e	e	ẽ	ẽ	ẽ
+47.0	*ũ	(⋊) (t͡s) __ (kː) (ɨ) (⋉)	u	u	u	u	u	o	ũ	ũ	ũ	o	u	ũ	ũ	ũ	ũ
+48.0	*o	(⋊) (s) __ (t|tʲ) (⋉)	o	o	i	ɨ	o	o	o	o	o	o	o	o	o	o	o
+49.0	*w	(⋊) __ (ã) (m) (i) (⋉)	w	w̃	w̃	w̃	w̃	w	w	w̃	m	w	w̃	w	w	w	w
+50.0	*t	(⋊) __ (a) (kː) (e) (⋉)	∅	∅	k	∅	ɡ	t	t	t	t	t	ɡ	t	t	t	t
+51.0	*u	(⋊) (t͡s) __ (s) (i) (⋉)	u	u	j	u	u	u	u	u	ũ	u	u	u	u	u	u
+52.0	*s	(⋊) (s) (i) __ (i) (⋉)	∅	s	ˀs	s	s	s	s	s	s	s	s	s	s	s	s
+53.0	*u	(⋊) (pˀ|ˀp) __ (p) (i) (⋉)	u	i	i	i	i	u	u	ĩ	u	u	ĩ	u	u	u	u
+54.0	*∅	(⋊) (s) (o) (t|tʲ) __ (⋉)	ɨ	ɨ	u	ɨ	o	∅	o	o	o	o	ɨ	∅	o	∅	o
+55.0	*∅	(⋊) __ (s) (ĩ) (kˀ|ˀk) (e) (⋉)	∅	t	tʰ	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅
+56.0	*pˀ	(⋊) __ (o) (p) (e) (⋉)	pˀ	∅	p	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ
+57.0	*p	(⋊) (pˀ|ˀp) (o) __ (e) (⋉)	p	p	ʔ	p	p	p	p	p	p	p	p	p	p	p	ʔ
+58.0	*i	(⋊) (pˀ|ˀp) (o) (tˀ|ˀt) __ (k|kʲ) (a) (⋉)	i	i	e	e	i	e	i	i	i	i	e	i	i	i	i
+59.0	*ĩ	(⋊) (p) __ (k|kʲ) (o) (⋉)	ĩ	ĩ	i	ĩ	ĩ	ĩ	ɨ̃	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ
+60.0	*k	(⋊) (pˀ|ˀp) (o) (tˀ|ˀt) (i) __ (a) (⋉)	k	k	∅	∅	k	k	k	k	k	k	k	k	k	k	k
+61.0	*u	(⋊) (p) (ã) (m) __ (⋉)	õ	u	õ	u	õ	u	u	u	u	u	õ	u	u	õ	u
+62.0	*p	__ (a|o|e|u|ɨ|i|ã|õ|ĩ|ũ|ɨ̃|ẽ)	p	p	p	p	p	p	h	ɸ	h	p	h	p	h	p	h
+63.0	*kː	(a|o|e|u|ɨ|i|ã|õ|ĩ|ũ|ɨ̃|ẽ) __ (o|e|u|ɨ|i)	k	k	kː	k	k	kː	k	kː	kː	k	k	kː	k	kː	k
+64.0	*pˀ	__ (a|o|u|ɨ)	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	h	pˀ	h	pˀ	pˀ	pˀ	h	pˀ	h
+65.0	*tˀ	(ŋ|m|ʔ|k|ɡ|p|b|kʲ|kʷ|kʷˀ|kˀ|pˀ|ʔʷ|ˀb|ˀk|ˀm|ˀp|ˀŋ|ˀɡ) (ɨ) __ (a|o|e)	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	t	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	t
+66.0	*h	(ŋ|m|k|ɡ|ɸ|p|b|j|j̃|kʲ) (a) __ (a|e|ɨ|i)	∅	h	h	h	h	h	∅	h	h	h	h	h	h	h	h
+67.0	*tˀ	(⋊) __ (õ|ũ|ɨ̃)	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	n	tˀ	tˀ	tˀ	tˀ	tˀ	n	tˀ	tˀ
+68.0	*w	(⋊) __ (ã|ɨ̃)	w	w	w	w	w	w	m	w	w	∅	w	w	m	w	m
+69.0	*t͡s	(⋊) __ (a|e|ã|ẽ)	ɲ	t͡s	t͡s	t͡s	t͡s	t͡s	n	t͡s	t͡s	t͡s	ɲ	t͡s	t͡s	t͡s	t͡s
+70.0	*t͡s	(⋊) __ (ã|ĩ|ɨ̃|ẽ)	ɲ	t͡s	t͡s	t͡s	t͡s	t͡s	n	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s
+71.0	*ã	(⋊) (pˀ|ˀp) (ã) (t͡s) __ (⋉)	ã	o	ã	ã	ã	ã	ĩ	ã	i	ã	ã	ã	ã	ã	i
+72.0	*j	(⋊) (ã) __ (a) (⋉)	j	j	j	j	j	j	ɲ	j	j	j	j	j	j	ɲ	j
+73.0	*j	(⋊) (pˀ|ˀp) (a) __ (a) (⋉)	j	j	j	j	j	j	t	j	j	j	t͡s	j	j	j	j
+74.0	*e	(⋊) (j) __ (pˀ|ˀp) (a) (⋉)	e	e	e	e	e	e	i	e	e	e	e	e	i	e	e
+75.0	*ɨ	(⋊) (w) __ (ʔ) (e) (⋉)	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	u	ɨ	ɨ	ɨ	∅	ɨ	ɨ	ɨ	ɨ
+76.0	*ˀj	(⋊) (ɨ) __ (e) (⋉)	ˀj	ˀj	ˀj	ˀj	ɡ	ˀj	d	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj
+77.0	*pˀ	(⋊) (kˀ|ˀk) (ɨ) __ (o) (⋉)	pˀ	p	pˀ	pˀ	ˀb	pˀ	∅	ˀp	ʔ	pˀ	pˀ	pˀ	∅	pˀ	∅
+78.0	*o	(⋊) (kˀ|ˀk) (ɨ) (pˀ|ˀp) __ (⋉)	o	o	o	o	o	o	õ	o	ã	o	o	o	o	o	o
+79.0	*t͡s	(⋊) (pˀ|ˀp) (ã) __ (ã) (⋉)	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	∅	t͡s	∅	t͡s	t͡ʃ	t͡s	∅	t͡s	∅
+80.0	*∅	(⋊) (n) (o) __ (⋉)	n	∅	∅	n	∅	n	a	∅	∅	ẽ	∅	∅	∅	∅	∅
+81.0	*ĩ	(⋊) (t͡s) __ (⋉)	ĩ	ĩ	ĩ	ĩ	ĩ	ĩ	e	ĩ	i	ĩ	ĩ	ĩ	i	ĩ	ĩ
+82.0	*i	(⋊) (pˀ|ˀp) (u) (p) __ (⋉)	i	i	i	i	i	i	u	i	i	i	i	i	u	i	i
+83.0	*t͡ʃ	(⋊) __ (õ) (pˀ|ˀp) (ɨ) (⋉)	t͡ʃ	s	t͡ʃ	t͡ʃ	s	t	s	h	t͡ʃ	t͡ʃ	t͡ʃ	t͡ʃ	t͡ʃ	t͡ʃ	t͡ʃ
+84.0	*e	(⋊) (pˀ|ˀp) (o) (p) __ (⋉)	e	a	e	e	e	e	a	e	e	e	e	e	e	e	a
+85.0	*ˀj	(⋊) (s) (ɨ) __ (o) (⋉)	ˀj	ˀj	ˀj	ˀj	ˀj	∅	j	ˀj	ˀj	ˀj	t͡ʃ	j	ˀj	ˀj	j
+86.0	*u	(⋊) __ (p) (e) (⋉)	ũ	õ	u	u	ã	u	o	u	u	o	õ	u	u	u	u
+87.0	*s	(⋊) __ (o) (t|tʲ) (⋉)	s	s	s	s	s	s	t	s	tʰ	s	s	s	s	s	s
+88.0	*∅	(⋊) (n) (ɨ) (kˀ|ˀk) __ (⋉)	ã	ũ	∅	ã	ũ	∅	a	∅	a	∅	õ	∅	a	∅	a
+89.0	*ɨ	(⋊) (t͡ʃ) (õ) (pˀ|ˀp) __ (⋉)	ɨ	ũ	ɨ	ɨ	ɨ	u	õ	ɨ	ɨ	ɨ	ɨ	ũ	õ	ɨ	õ
+90.0	*t͡s	(⋊) __ (o) (a) (⋉)	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	d	j	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s
+91.0	*i	(⋊) (t͡s) (ɨ) (s) __ (⋉)	i	ɨ	i	ɨ	i	ɨ	ɨ	i	ɨ	ɨ	i	ɨ	ɨ	i	ɨ
+92.0	*o	(⋊) (pˀ|ˀp) (e) (kː) __ (⋉)	o	o	o	o	a	o	u	o	o	o	o	o	o	o	o
+93.0	*pˀ	(⋊) __ (a|o|e|u|ɨ|i)	b	pˀ	pˀ	b	b	pˀ	pˀ	b	pˀ	pˀ	b	pˀ	pˀ	pˀ	pˀ
+94.0	*e	(n|m) __	e	e	e	ẽ	ẽ	e	e	e	e	ẽ	ẽ	e	e	e	e
+95.0	*e	(ɲ|ŋ|n|m|ʔ|k|ɡ|t|p|d|b|t͡ʃ|t͡s|kʲ|kʷ|kʷˀ|kˀ|pˀ|tʲ|tˀ|ʔʷ|ˀb|ˀd|ˀk|ˀm|ˀn|ˀp|ˀt|ˀŋ|ˀɡ) __	ẽ	ẽ	e	ẽ	e	e	e	e	e	e	ẽ	e	e	e	e
+96.0	*a	(ɲ|ŋ|n|m|ʔ|k|ɡ|ɸ|t|s|p|d|b|t͡ʃ|t͡s|h|hʲ|kʰ|kʲ|kˀ|pʰ|pˀ|sˀ|tʰ|tʲ|tˀ|ˀb|ˀd|ˀh|ˀk|ˀkʰ|ˀm|ˀn|ˀp|ˀs|ˀt|ˀtʰ|ˀŋ|ˀɡ) __ (⋉)	a	a	a	ã	a	a	a	a	a	ã	a	a	a	a	a
+97.0	*tː	(a|o|e|u|ɨ|i|ã|õ|ĩ|ũ|ɨ̃|ẽ) __ (a|e|ɨ|i)	tː	tː	tː	t	t	tː	tː	tː	tː	tː	tː	tː	t	tː	tː
+98.0	*kˀ	(⋊) __ (a|o|u|ɨ|ã|õ|ũ|ɨ̃)	∅	kˀ	kˀ	∅	kˀ	kˀ	kˀ	∅	kˀ	k	kˀ	kˀ	kˀ	kˀ	kˀ
+99.0	*tˀ	(o|e|u|ɨ|i) __ (a|e|ɨ|i)	tˀ	tˀ	tˀ	ˀt	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	d	tˀ	tˀ	tˀ	tˀ
+100.0	*ɨ	(n|m) __	ɨ̃	ɨ	ɨ	ɨ̃	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ̃	ɨ	ɨ	ɨ	ɨ
+101.0	*t͡s	(⋊) __ (ɨ|i)	ɾ	t͡s	t͡s	d	d	t͡s	t͡s	ɾ	t͡s	t͡s	ɾ	t͡s	t͡s	t͡s	t͡s
+102.0	*ˀj	(a|ɨ) __ (a|o|e)	s	ˀj	ˀj	ˀs	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj
+103.0	*pˀ	(ã|ɨ̃) __ (o|e)	pˀ	pˀ	pˀ	ˀm	pˀ	pˀ	pˀ	ˀm	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ
+104.0	*ɨ̃	(k|ɡ|ɸ|t|s|p|d|b|t͡ʃ|t͡s|w|j|kʲ|kʷ|tʲ) __ (p|pˀ|ˀp)	ɨ̃	ɨ̃	ɨ̃	ɨ	ɨ̃	ɨ	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ	ɨ̃	ɨ̃
+105.0	*ɨ̃	__ (k|kʲ|kʷ|kʷˀ|kˀ|ˀk)	ɨ̃	ɨ̃	ɨ̃	ẽ	ĩ	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ĩ	ɨ̃	ɨ̃	ɨ̃	ɨ̃
+106.0	*w	(⋊) __ (u|ɨ|ũ|ɨ̃)	w	w	w	b	b	w	w	w	w	w	b	w	w	w	w
+107.0	*pˀ	(⋊) __ (ɨ) (⋉)	pˀ	pˀ	pˀ	p	pˀ	pˀ	pˀ	pˀ	pˀ	w	pˀ	pˀ	w	pˀ	w
+108.0	*p	(⋊) __ (i) (⋉)	p	p	p	m	m	p	p	p	p	p	m	p	p	p	p
+109.0	*ɲ	(⋊) __ (ã) (kˀ|ˀk) (i) (⋉)	ɲ	ɲ	ɲ	∅	∅	ɲ	ɲ	ɲ	ɲ	∅	ɲ	ɲ	ɲ	ɲ	ɲ
+110.0	*∅	(⋊) (kˀ|ˀk) (o) __ (ɨ) (⋉)	∅	∅	∅	d	∅	∅	∅	ʔ	∅	∅	∅	∅	∅	∅	∅
+111.0	*i	(⋊) (j) (ɨ) __ (⋉)	i	i	i	a	i	e	i	i	i	i	i	i	i	i	i
+112.0	*∅	(⋊) (k|kʲ) (ũ) __ (⋉)	∅	∅	∅	ˀn	∅	∅	∅	∅	ʔ	∅	∅	∅	ʔ	∅	k
+113.0	*kˀ	(⋊) __ (o) (p) (e) (⋉)	kˀ	kˀ	kˀ	k	kˀ	ɡ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ
+114.0	*o	(⋊) (kˀ|ˀk) (ã) (pˀ|ˀp) __ (⋉)	o	o	o	ẽ	ĩ	ũ	o	o	o	o	o	o	o	o	o
+115.0	*i	(⋊) (j) (a) (h|hʲ) __ (⋉)	i	e	i	e	i	i	i	i	i	i	e	i	i	i	i
+116.0	*t͡s	(⋊) __ (a) (s) (e) (⋉)	d	t͡s	t͡s	ɾ	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	j	t͡s	j
+117.0	*s	(⋊) (t͡s) (a) __ (e) (⋉)	s	s	s	t͡ʃ	s	s	s	s	s	w	s	s	s	s	s
+118.0	*i	(⋊) (p) __ (a) (t|tʲ) (a) (⋉)	∅	i	i	∅	i	i	i	∅	i	i	∅	i	i	i	i
+119.0	*∅	(⋊) (t͡s) (ɨ) (s) (i) __ (⋉)	∅	∅	∅	a	∅	a	∅	∅	∅	∅	∅	∅	∅	∅	∅
+120.0	*o	(⋊) (t͡s) (ɨ) (s) (e) __ (⋉)	∅	∅	o	∅	o	o	o	o	o	∅	∅	∅	o	o	o
+121.0	*s	(⋊) (t͡s) (ɨ) __ (e) (o) (⋉)	s	s	s	ˀs	s	s	s	s	s	s	s	∅	s	s	s
+122.0	*kˀ	(⋊) (t͡s) (ã) __ (ɨ) (⋉)	kˀ	ɡ	kˀ	ˀɡ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ
+123.0	*s	(⋊) (t͡s) (ã) __ (a) (⋉)	s	s	s	n	n	s	s	s	s	s	s	s	s	s	s
+124.0	*a	(⋊) (pˀ|ˀp) (o) (p) __ (⋉)	a	a	a	o	a	a	a	a	a	o	o	a	a	a	a
+125.0	*ɨ	(⋊) (t͡s) (ã) (kˀ|ˀk) __ (⋉)	ɨ	e	ɨ	e	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ
+126.0	*t͡s	(⋊) __ (i) (m) (a) (⋉)	n	n	t͡s	n	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s
+127.0	*kˀ	(⋊) __ (o) (⋉)	kˀ	kˀ	kˀ	ɡ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	ɡ	kˀ	kˀ
+128.0	*tˀ	(⋊) (m) (ɨ) __ (o) (⋉)	tˀ	tˀ	tˀ	ˀn	tˀ	n	tˀ	ˀɾ	tˀ	tˀ	ˀn	tˀ	tˀ	tˀ	tˀ
+129.0	*pˀ	(⋊) __ (a|o|e|u|ɨ|i|ã|õ|ĩ|ũ|ɨ̃|ẽ)	pˀ	b	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	p	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ
+130.0	*kˀ	__	kˀ	k	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	k
+131.0	*pˀ	(ã|õ|ũ|ɨ̃) __ (o|e|u|ɨ|i)	m	m	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	pˀ	m	m	pˀ	pˀ	pˀ	pˀ
+132.0	*h	(k|ɡ|ɸ|p|b|j|kʲ) (a) __ (i) (⋉)	h	∅	h	h	h	h	h	h	h	h	h	h	h	h	∅
+133.0	*ˀj	(a|ɨ) __ (a|e)	ˀj	s	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	ˀj	j	ˀj	ˀj	ˀj	ˀj
+134.0	*o	(⋊) (pˀ|ˀp) __ (p) (e) (⋉)	o	∅	o	o	o	o	o	o	ũ	o	o	o	o	o	o
+135.0	*tː	(⋊) (t͡s) (i) __ (a) (⋉)	tː	∅	tː	tː	tː	tː	tː	tː	tː	tː	tː	t	tː	tː	tː
+136.0	*t͡s	(⋊) __ (i) (tː) (a) (⋉)	t͡s	t	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t	t͡s	t͡s	t͡s
+137.0	*ɨ̃	(⋊) (j) __ (k|kʲ) (a) (⋉)	ĩ	ĩ	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ũ	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃
+138.0	*w	(⋊) __ (ɨ̃) (p) (o) (⋉)	w	b	w	w	w	m	w	w	w	w	w	w	w	w	w
+139.0	*ɨ	(⋊) (n) __ (kˀ|ˀk) (⋉)	ɨ	ũ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	u	ɨ	ɨ	ɨ	ɨ	ɨ
+140.0	*a	(i|j) __ (t|s|t͡ʃ|t͡s|h|hʲ|tʰ|tʲ)	e	a	a	a	a	a	a	a	a	a	e	a	a	a	a
+141.0	*t͡s	(⋊) __ (o|u|õ|ũ)	j	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	j	t͡s	t͡s	t͡s	t͡s
+142.0	*tˀ	(o|u|ɨ) __ (a|e|ɨ|i)	t	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	t	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ
+143.0	*ɨ	(o|u) __ (⋉)	u	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	u	ɨ	ɨ	ɨ	ɨ
+144.0	*o	(⋊) (kˀ|ˀk) __ (ɨ) (⋉)	u	o	o	o	o	a	o	o	o	o	o	o	o	o	o
+145.0	*kˀ	(⋊) __ (ɨ) (tˀ|ˀt) (a) (⋉)	ɡ	kˀ	kˀ	kˀ	kˀ	∅	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ
+146.0	*ɨ	(⋊) (t͡ʃ) __ (a) (⋉)	e	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ã	ɨ	ɨ	ɨ	ɨ
+147.0	*õ	(⋊) (pˀ|ˀp) __ (s) (a) (⋉)	ũ	õ	õ	õ	õ	u	õ	õ	õ	õ	õ	õ	õ	õ	õ
+148.0	*k	(⋊) (p) (e) __ (a) (⋉)	∅	k	k	k	∅	k	k	k	k	k	∅	k	k	k	k
+149.0	*tˀ	(⋊) __ (o) (⋉)	d	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	d	tˀ
+150.0	*pˀ	__ (a|o|e|u|ɨ|i)	pˀ	pˀ	pˀ	pˀ	b	pˀ	pˀ	pˀ	pˀ	pˀ	b	pˀ	pˀ	pˀ	pˀ
+151.0	*kˀ	(⋊) __ (o|u|ɨ)	kˀ	kˀ	kˀ	kˀ	ɡ	kˀ	kˀ	kˀ	kˀ	kˀ	ɡ	kˀ	kˀ	kˀ	kˀ
+152.0	*tˀ	__ (a|o|e|u|ɨ|i)	tˀ	tˀ	tˀ	tˀ	d	tˀ	tˀ	tˀ	tˀ	d	tˀ	tˀ	tˀ	tˀ	tˀ
+153.0	*t͡s	(⋊) __ (o|u|ɨ|õ|ũ|ɨ̃)	t͡s	t͡s	t͡s	t͡s	j	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	s
+154.0	*o	(k|kʲ|kˀ|ˀk) __ (n) (e) (⋉)	o	o	o	o	õ	o	o	o	õ	o	o	o	o	o	õ
+155.0	*t͡s	(⋊) __ (ĩ) (⋉)	t͡s	t͡s	t͡s	t͡s	ɲ	t͡s	t͡s	t͡s	t͡s	m	t͡s	t͡s	t͡s	t͡s	t͡s
+156.0	*kˀ	(⋊) (ɲ) (ã) __ (i) (⋉)	kˀ	kˀ	kˀ	kˀ	ˀŋ	kˀ	kˀ	kˀ	kˀ	w	kˀ	kˀ	kˀ	kˀ	kˀ
+157.0	*ɨ	(⋊) (k|kʲ) __ (i) (⋉)	ɨ	ɨ	ɨ	ɨ	ĩ	ɨ	ɨ	∅	ɨ	ɨ	ĩ	ɨ	ɨ	ɨ	ɨ
+158.0	*kˀ	(⋊) __ (ɨ̃) (t|tʲ) (a) (⋉)	kˀ	kˀ	kˀ	kˀ	∅	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	ɡ	kˀ	kˀ	kˀ
+159.0	*i	(⋊) (tˀ|ˀt) (õ) (m) __ (⋉)	i	i	i	i	ẽ	i	i	õ	i	i	i	i	i	i	i
+160.0	*∅	(⋊) (t|tʲ) __ (u) (⋉)	∅	∅	∅	∅	u	∅	∅	∅	u	∅	∅	∅	∅	∅	∅
+161.0	*∅	(⋊) (o) __ (⋉)	∅	∅	∅	∅	t	∅	∅	∅	i	∅	t	∅	i	∅	i
+162.0	*t	(⋊) (m) (ɨ) __ (e) (⋉)	t	t	t	t	n	n	t	ɾ	t	t	t	t	t	t	ˀt
+163.0	*j	(⋊) (w) (a) __ (o) (⋉)	j	j	j	j	ˀj	j	j	j	j	ɨ	j	j	j	j	j
+164.0	*w	(⋊) __ (ĩ) (n) (o) (⋉)	w	w	w	w	m	w	w	w	w	w	m	w	w	w	w
+165.0	*t	(⋊) (kˀ|ˀk) (ɨ̃) __ (a) (⋉)	t	t	t	t	t	t	t	t	t	t	t	ɾ	t	t	n
+166.0	*o	(⋊) (s) (ɨ) (ˀj) __ (⋉)	o	o	o	o	o	∅	o	o	o	o	o	u	o	o	o
+167.0	*pˀ	(⋊) __ (ɨ) (p) (ɨ) (⋉)	pˀ	pˀ	pˀ	pˀ	pˀ	h	pˀ	pˀ	pˀ	pˀ	pˀ	b	pˀ	pˀ	pˀ
+168.0	*e	(⋊) (t͡s) (ɨ) (s) __ (o) (⋉)	e	e	e	e	e	e	e	∅	e	e	e	i	e	e	e
+169.0	*o	(⋊) (t͡s) (ɨ) (p) __ (⋉)	o	o	o	o	o	o	o	u	o	o	o	ɨ	o	o	o
+170.0	*t͡s	(⋊) __ (a|e|ɨ|i|ã|ĩ|ɨ̃|ẽ)	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s	j	t͡s	t͡s	t͡s	t͡s	t͡s	sˀ
+171.0	*tː	(a|o|u|ɨ|ã|õ|ũ|ɨ̃) __ (e|i)	tː	tː	tː	tː	tː	tː	tː	tː	tʰ	tː	tː	tː	tː	tː	t
+172.0	*a	(k|ɡ|t|s|d|t͡ʃ|t͡s|j|kʲ|tʲ) __ (ɲ|ŋ|n|m|k|ɡ|ɸ|t|s|p|d|b|t͡ʃ|t͡s|kː|tː|kʲ|tʲ)	a	a	a	a	a	a	a	a	ã	a	a	a	ã	a	ã
+173.0	*tˀ	(⋊) __ (o|e)	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	ɾ	tˀ	ɾ
+174.0	*tʲ	(⋊) (kʷ) (e) __ (u) (⋉)	tʲ	tʲ	tʲ	tʲ	tʲ	t	tʲ	h	s	tʲ	tʲ	tʲ	s	tʲ	s
+175.0	*∅	(⋊) (m) (ɨ) (t͡s) (a) __ (⋉)	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅	k	∅	ɾ
+176.0	*h	(⋊) (m) (a) __ (a) (⋉)	h	h	h	h	h	h	h	h	∅	h	h	h	h	h	m
+177.0	*∅	(⋊) (t͡ʃ) (ɨ) __ (⋉)	∅	∅	∅	∅	∅	∅	∅	∅	∅	∅	o	∅	∅	∅	ɾ
+178.0	*kˀ	(⋊) __ (o) (ʔ) (o) (⋉)	kˀ	kˀ	kˀ	kˀ	kˀ	t	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	h
+179.0	*ʔ	(⋊) (kˀ|ˀk) (o) __ (o) (⋉)	ʔ	ʔ	ʔ	ʔ	ʔ	k	ʔ	ʔ	ɾ	ʔ	d	ʔ	d	ʔ	d
+180.0	*ɨ	(⋊) (t͡s) __ (p) (o) (⋉)	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ĩ	ɨ	ɨ	ɨ	ĩ	ɨ	ĩ
+181.0	*u	(⋊) (w) __ (ɨ) (⋉)	u	u	u	u	u	u	u	u	ɨ	u	u	u	∅	u	∅
+182.0	*kˀ	(⋊) __ (o|u|ɨ|õ|ũ|ɨ̃)	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	kˀ	ɡ	kˀ	kˀ	k	kˀ
+183.0	*ʔ	(a|o|e|u|ɨ|i|ã|õ|ĩ|ũ|ɨ̃|ẽ) __ (a|e|ɨ|i|ã|ĩ|ɨ̃|ẽ)	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	∅	∅	ʔ	ʔ	ʔ	ʔ
+184.0	*e	(n|m|ɸ|t|s|p|d|b|t͡ʃ|t͡s|tʲ) __	e	e	e	e	e	e	e	e	e	ẽ	ẽ	e	e	e	e
+185.0	*s	__ (a|o|e|u|ɨ|i|ã|õ|ĩ|ũ|ɨ̃|ẽ)	s	s	s	s	s	s	s	s	s	h	t͡ʃ	s	s	s	s
+186.0	*tˀ	(⋊) __ (o|e|u|ɨ|i|õ|ĩ|ũ|ɨ̃|ẽ)	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	tˀ	ɾ	ɾ	tˀ	ɾ	tˀ	tˀ	tˀ	tˀ
+187.0	*t͡s	(⋊) __ (o|e|õ|ẽ)	t͡s	t͡s	t͡s	t͡s	t͡s	j	t͡s	t͡s	t͡s	t͡s	j	t͡s	t͡s	t͡s	t͡s
+188.0	*∅	(⋊) (s) (i) (s) (i) __ (⋉)	∅	∅	∅	∅	∅	∅	∅	∅	k	j	k	∅	∅	∅	∅
+189.0	*ɨ	(⋊) (s) __ (ˀj) (o) (⋉)	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	e	ɨ	ẽ	ɨ	ɨ
+190.0	*t͡s	__ (a|o|u|ɨ|ã|õ|ũ|ɨ̃)	t͡s	t͡s	t͡s	t͡s	t͡s	t	t͡s	h	s	t͡s	t͡s	t͡s	t͡s	t͡s	t͡s
+191.0	*kʷ	(⋊) __ (e) (tʲ) (u) (⋉)	kʷ	kʷ	kʷ	kʷ	kʷ	k	kʷ	k	kʷ	kʷ	kʷ	kʷ	kʷˀ	kʷ	kʷ
+192.0	*ɨ̃	(⋊) (kˀ|ˀk) __ (t|tʲ) (a) (⋉)	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ɨ̃	ã	a	ɨ̃	ɨ̃	ɨ̃	a	ɨ̃	ɨ̃
+193.0	*a	(⋊) (t͡s) (o) __ (⋉)	a	a	a	a	a	e	a	e	a	a	a	a	a	a	a
+194.0	*e	(⋊) (t͡s) (ɨ̃) (pˀ|ˀp) __ (⋉)	e	e	e	e	e	ɨ	e	e	e	e	e	e	o	e	e
+195.0	*ʔ	(⋊) (j) (ɨ) __ (ɨ) (⋉)	ʔ	ʔ	ʔ	ʔ	ʔ	h	ʔ	ʔ	ʔ	ʔ	ʔ	ʔ	∅	ʔ	ʔ
+196.0	*ɨ	(⋊) (t͡ʃ) __	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	ɨ	i	e	ɨ	ɨ	i	ɨ	ɨ
+197.0	*i	(⋊) (kˀ|ˀk) (õ) (p) __ (⋉)	i	i	i	i	i	i	i	i	ĩ	i	i	i	ĩ	i	i
+198.0	*∅	(⋊) (j) (ɨ) (ʔ) (o) __ (⋉)	∅	∅	∅	∅	∅	∅	∅	∅	b	∅	∅	∅	b	∅	∅
+199.0	*õ	(⋊) (tˀ|ˀt) __ (m) (i) (⋉)	õ	õ	õ	õ	õ	õ	õ	õ	o	õ	õ	õ	o	õ	õ
+200.0	*∅	(⋊) (j) (ẽ) (kː) (u) __ (⋉)	∅	∅	∅	∅	∅	∅	∅	∅	ɨ	j	∅	∅	∅	∅	∅

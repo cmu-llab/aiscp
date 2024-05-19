@@ -1,0 +1,39 @@
+Number	Proto-sound	Context	Sio	Sek	Kor	Mai	Kue	Tan	Kub	Des	Sir	Yup	Bas	Mak	Tuk	Bar	Tat	Kar	Pis	Tuy	Yur	Pir	Wan
+1	*h		∅	∅	∅	∅	h	∅	∅	h	h	h	h	h	h	∅	∅	∅	∅	∅	∅	h	h
+3	*j	V_V	j	j	j	j	j	j	j	j	j	j	j/tʃ	j/tʃ	s	h	h	s	tʃ	s	s	s	s
+4	*k	#_	k	k	kʰ	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	kʰ
+5	*k	V_V	k	k	kʰ	k	k	k	k	ɡ	ɡ	ɡ	k	k	k	k	k	k	k	k	k	k	k
+6	*k	i,e_	k	k	kʰ	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	tʃ
+7	*k	~V_V	k	k	kʰ	k	k	k	∅	ɡ	ɡ	ɡ	k	k	k	k	k	k	k	k	k	k	k
+8	*kː		k	k	kʰ	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k	k
+9	*kˀ	#_	kˀ	kˀ 	k	ɡ/∅	k/ɡ	∅	k	ɡ	ɡ	ɡ	ɡ	ɡ	∅	∅	∅	∅	k	k	k	k	kʰ
+10	*kˀ	V_V	k	k	kʰ	k	k/ɡ	k	∅	ɡ	ɡ	ɡ	ɡ	ɡ	k	k	k	k	k	k	k	k	k
+11	*m		m	m	m	m	m	b	b	b	b	b	b	b	b	b	b	b	b	b	b	b	b
+12	*n		n	d	n	n	n	d	d	d	d	d	d	d	d	d	d	d	d	d	d	d	d
+13	*p	#_	h	h	h	h	h	p/ɸ	p	p	p	p	h	h	p	p	p	p	p	p	p	p	pʰ
+14	*p	V_V	h	h	h	h	h	p/ɸ	p	p	p	p	h	h	p	p	p	p	p	p	p	p	p
+15	*pˀ	#_	pˀ	pˀ 	p	ˀb	p/b	b	b	b	b	b	b	b	b	b	b	b	b	b	b	b	b
+16	*pˀ	#_V*p	h	h	h	h	h	p	p	b	b	b	b	b	b	b	b	b	b	b	b	b	b
+17	*pˀ	V_V	h	h	h	h	h	p	b	b	b	b	b	b	p	p	p	p	p	p	p	p	p
+18	*pˀ	~V_V	h	h	h	h	h	b	b	b	b	b	b	b	b	b	b	b	b	b	b	b	b
+19	*s	#_	s	s	s	s	s	h	h	s	s	s	tʃ	tʃ	s	h	h	h	h	s	s	s	s
+20	*s	V_V	s	s	s	s/tʃ	s	h	h	s	s	s	tʃ	tʃ	s	h	h	s	tʃ	s	s	s	s
+21	*t	#_	t	t	tʰ	t	t	t	t	t	t	t	t	t	t	t	t	t	t	t	t	t	tʰ
+22	*t	V_V	t	t	tʰ	t	t	t	d	d	d	d	t	t	t	t	t	t	t	t	t	t	t
+23	*t	~V_V	t	t	tʰ	t	n	d	d	d	d	d	t	t	t	t	t	t	t	t	t	t	t
+24	*ts 	#_	s	s	s	s/tʃ	t/s	h	h	j	j	ts/s	j	j	j	j	j	j	j	j	j	j	j
+25	*ts 	V_V	s	s	s	s	t	h	h	s	s	ts	tʃ	tʃ	s	h	h	s	tʃ	s	s	s	s
+26	*tsˀ	#_	sˀ	sˀ	j	d	j	j	h	j	j	j	j	j	j	j	j	j	j	j	j	j	j
+27	*tsˀ	#_i	sˀ	sˀ	j	j	r/l	r	h	d	d	d	r	r	d	d	r	r	d	d	d	d	d
+28	*tː	V_V	t	t	tʰ	t	t	t	t/tʃ	t	t	t	t	t	t	t	t	t	t	t	t	t	t
+29	*tˀ	#_	ɖ	d	r	ˀd	r/l	r	d	d	d	d	r	r	d	d	r	r	d	d	d	d	d
+30	*tˀ	V_V	t	t	tʰ	t	t/l	t	d	d	d	d	d	d	t	t	t	t	t	t	t	t	t
+31	*tˀ	~V_V	t	t	t	t	n	r	d	d	d	d	d	d	d	d	d	d	d	d	d	d	d
+32	*tʃ	#_	tʃ	s	s	s	t	h	h	s	s	tʃ	tʃ	tʃ	s	h	h	h	h	s	s	s	s
+33	*w		w	w	w	b	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w	w
+34	*ʔ		ʔ	ʔ	ʔ	∅	∅/h	ʔ	∅	∅/ʔ	∅/ʔ	∅	∅	∅	ʔ	∅	∅	∅	∅	∅	∅	∅	ʔ
+35	*V	_kˀV	V	V	V	V	V	V	V	V	V	V	V	V	Vˀ	V	V	V	V	V	V	Vˀ	Vˀ
+36	*V	_pˀV	V	V	V	V	V	Vˀ	V	V	V	V	V	V	Vˀ	V	V	V	V	V	V	Vˀ	Vˀ
+37	*~V	_pˀV	~V	~V	~V	~V	~V	~Vˀ	~V	~V	~V	~V	~V	~V	~Vˀ	~V	~V	~V	~V	~V	~V	~Vˀ	~Vˀ
+38	*V	_tˀV	V	V	V	V	V	V	V	V	V	V	V	V	Vˀ	V	V	V	V	V	V	Vˀ	Vˀ
+39	*~V	_tˀV	~V	~V	~V	~V	~V	~Vˀ	~V	~V	~V	~V	~V	~V	~Vˀ	~V	~V	~V	~V	~V	~V	~Vˀ	~Vˀ
