@@ -2,14 +2,13 @@
 
 This is the code for the paper "Automating Sound Change Prediction for Phylogenetic Inference: A Tukanoan Case Study."
 
-🚧 The full code (the end to end phylogenetic inference pipeline) is still being uploaded. However, the evaluation code with the trees from our 10 runs is up. 🚧
-
 [Feel free to take a look at our slides from LChange 2023.](lchange-slides.pdf)
 
 # Running our code
 
 ## Installation
 ```pip install -r requirements.txt```
+
 ```conda install pynini```
 
 You may need to revise the evaluation scripts to use the version of consense, penny, and quartet_dist for your platform (e.g ./consense-linux)
@@ -62,7 +61,7 @@ The 21-language dataset from https://github.com/lingpy/tukano-paper is used in C
 
 ## Baseline models
 
-We have two baseline models: cognacy and shared innovations (see Section 4.3 in the paper).
+We have two baseline models: cognacy and shared innovations (see Section 4.3 in the paper; lines 1 and 2 in Table 1 of the paper).
 
 ```
 cd baselines
