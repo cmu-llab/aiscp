@@ -111,6 +111,22 @@ echo "Creating training data"
 python3 phone_graph/generate_training_data.py
 ```
 
+## ASLI (automatic sound law induction) - Sec 3.3
+
+
+### Alignment
+Before we run ASLI on protoform-reflex pairs, we must align the protoforms and reflexes.
+We use a modified version of Needleman-Wunsch alignment so that the substitution cost between two phones is the FED rather than a constant, ensuring similar phones align.
+
+* note: add these two phones into ipa_all.csv under the directory of panphon module, possibly in a directory like "D:\Python\Anaconda\Lib\site-packages\panphon\data"
+ˀtʰ,-,-,+,-,-,-,-,0,-,+,+,+,+,-,-,-,-,-,-,-,0,-,0,0
+ˀkʰ,-,-,+,-,-,-,-,0,-,+,+,-,-,0,-,+,-,+,-,-,0,-,0,0
+'''
+
+```
+python3 alignment/shared_innovation.py
+```
+
 
 ## End-to-end pipeline
 
